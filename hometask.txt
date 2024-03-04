@@ -1,1 +1,6 @@
 в ветке origin/demo в README 1 строка дополнена следующим комментарием: "with nice buttons on his jacket (buttons branch)"
+в удаленном репозитории имеются следующие коммиты:
+heat added
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+add file hometask.txt
